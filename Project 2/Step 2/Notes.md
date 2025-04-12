@@ -14,7 +14,7 @@
 <li>Investment in targeted promotional efforts.</li>
 </ul>
 <h3><li>Strategic Fit</li></h3>
-&emsp;Segment characteristics should match Mc Donald's strengths etc:
+&emsp;Segment characteristics should match McDonald's strengths etc:
 <ul>
 <li>Must include consumers open to fast food, and not avaerse to it.
 </ul>
@@ -32,10 +32,10 @@
 <i>Criteria used to evaluate how attractive or valuable a segment is to pursue.</i>
 <ul>
 <h3><li>Primary Segment Attributes</li></h3>
-&emsp;Positive perception of Mc Donald's.<br>
+&emsp;Positive perception of McDonald's.<br>
 &emsp;Frequent consumption of fast food / frequent dining out.
 <h3><li>Alternative Strategic Focus</li></h3>
-&emsp;Mc Donald's could also targets less less favorable segments to:
+&emsp;McDonald's could also targets less less favorable segments to:
 <ul>
 <li>Understand negative perceptions.</li>
 <li>Investigate reason for ow appeal.</li>
@@ -50,8 +50,8 @@
 <li>Contain limited bariables beyond brand image.</li>
 <li>Therefore, attractiveness criteria are simplifies to:</li>
 <ul>
-<li>Liking Mc Donald's.</li>
-<li>Frequently eating at Mc Donald's.</li>
+<li>Liking McDonald's.</li>
+<li>Frequently eating at McDonald's.</li>
 </ul>
 </ul>
 <li>These will be the guiding in Step 8</li>
